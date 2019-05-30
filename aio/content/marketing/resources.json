@@ -715,10 +715,10 @@
             "url": "https://www.upgradingangularjs.com"
           },
           "toddmotto-ultimateangular": {
-            "desc": "Online courses providing in-depth coverage of the Angular ecosystem, AngularJS, Angular and TypeScript, with functional code samples and a full-featured seed environment. Get a deep understanding of Angular and TypeScript from foundation to functional application, then move on to advanced topics with Todd Motto and collaborators.",
+            "desc": "In-depth video training for Angular, TypeScript, RxJS with real-world examples and fully-featured seed environments. Get a deep understanding of Angular and TypeScript from foundation to functional application, then move on to advanced topics with Todd Motto and collaborators.",
             "rev": true,
-            "title": "Ultimate Angular",
-            "url": "https://ultimateangular.com/"
+            "title": "Ultimate Courses",
+            "url": "https://ultimatecourses.com/angular"
           },
           "willh-angular-zero": {
             "desc": "Online video course in Chinese for newbies who need to learning from the scratch in Chinese.  It's covering Angular, Angular CLI, TypeScript, VSCode, and some must known knowledge of Angular development.",
